@@ -1,0 +1,47 @@
+.table-data{
+    margin: auto;
+    background-color: aqua;
+}
+table{
+width: 85%;
+margin: 0 auto;
+}
+table,td {
+border: 2px solid;
+font-size: 12px;
+padding: 5px;
+}
+
+th{
+border-right: 2px solid;
+padding-bottom: 10px;
+}
+
+td{
+padding: 10px;
+}
+.add{
+    margin-top: 50px;
+    margin-left: 46%;
+    font-size: 20px;
+}
+.addsample{
+    width: 60%;
+    margin:auto;
+    padding: 10px;
+    border: 1px solid rgb(0,0,0,0.4);
+}
+.them{
+    margin-left: 45%;
+    background-color: aquamarine;
+}
+.searchsample {
+    width: 60%;
+    margin: auto;
+    
+}
+
+.searchsample button{
+    background-color: greenyellow;
+    transform: translate(900px, -30px)
+}

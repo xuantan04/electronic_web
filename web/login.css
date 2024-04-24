@@ -1,0 +1,43 @@
+.body{
+    background-color:antiquewhite;
+}
+.main-form {
+    margin:auto;
+    padding: 10px;
+    width: 400px;
+    height: 520px;
+    background-color: aquamarine;
+    border: 5px solid rgb(0,0,0,0.4);
+ }
+ 
+ .input{
+     display: block;
+     text-align: center;
+     font-weight: 400;
+ }
+ 
+ .span{
+     color: red;
+ }
+ label {
+     font-size: 20px;
+     display: inline-block;
+     cursor: default;
+     margin-bottom: 5px;
+     font-weight: 400;
+ }
+ 
+ .input[type=text], input[type=password],input[type=email]{
+     width: 100%;
+     max-width: 400px;
+     height: 40px;
+ }
+ .form-dki{
+     cursor: pointer;
+     margin-top: 10px;
+     font-size: 20px;
+     margin-left: 150px;
+ }
+ .form-dki :hover{
+     color: red;
+ }
